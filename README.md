@@ -1,4 +1,6 @@
 # IDENTITAS
-``` Nama  : Vebrian Nikola Saputra \n```
-``` Absen : 28 \n```
+``` Nama  : Vebrian Nikola Saputra```
+br
+``` Absen : 28 ```
+<br>
 ``` Kelas : XI PPLG 6 ```
