@@ -1,5 +1,5 @@
 # IDENTITAS
-``` Nama  : Vebrian Nikola Saputra```
+```Nama  : Vebrian Nikola Saputra```
 <br>
 ``` Absen : 28 ```
 <br>
